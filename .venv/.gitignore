@@ -4,3 +4,5 @@ Lib/*
 Scripts
 Scripts/*
 pyvenv.cfg
+include
+include/*
